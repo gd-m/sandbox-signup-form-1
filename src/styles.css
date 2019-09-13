@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.signupform-wrapper {
+  background-color: azure;
+  height: auto;
+  width: auto;
+}
+
+.form-input {
+  padding: 2%;
+  margin: 1%;
+  
+}
